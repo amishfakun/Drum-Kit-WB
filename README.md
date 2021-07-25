@@ -8,5 +8,5 @@ Link: https://www.youtube.com/watch?v=VuN8qwZoego&ab_channel=WesBos
 Link: https://www.theodinproject.com/paths/foundations/courses/foundations
 
 ## Live Website
-https://amishfakun.github.io/DrumKit/
+https://drum-kit-wb.vercel.app/
 
